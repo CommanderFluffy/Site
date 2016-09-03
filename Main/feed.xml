@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6F73E2BD-3EF5-45A8-BD30-81814C90C1BE</id>
+ <title>Page list Atom feed</title>
+ <updated>2016-03-11T20:56:50+11:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:64B65880-96A2-46D8-A5C1-95E790E84C78</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">64B65880-96A2-46D8-A5C1-95E790E84C78</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2016-03-11T20:56:50.001+11:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D16585C9-F493-4891-A1AD-C81CA1303ABA</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">D16585C9-F493-4891-A1AD-C81CA1303ABA</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2016-03-11T20:56:50.002+11:00</updated>
+  <content>About</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:006790FE-F8B0-4918-ABCD-889F5DF5124E</id>
+  <title>History</title>
+  <title xmlns="urn:iweb:">History</title>
+  <in-navbar xmlns="urn:iweb:">006790FE-F8B0-4918-ABCD-889F5DF5124E</in-navbar>
+  <link rel="alternate" href="History.html"/>
+  <updated>2016-03-11T20:56:50.003+11:00</updated>
+  <content>History</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8344A1A0-FBBF-41A9-9467-1F7507E92EDE</id>
+  <title>Games</title>
+  <title xmlns="urn:iweb:">Games</title>
+  <in-navbar xmlns="urn:iweb:">8344A1A0-FBBF-41A9-9467-1F7507E92EDE</in-navbar>
+  <link rel="alternate" href="Games.html"/>
+  <updated>2016-03-11T20:56:50.004+11:00</updated>
+  <content>Games</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1DEB9233-0ECC-4BD4-808A-D820DD7E7C57</id>
+  <title>Help</title>
+  <title xmlns="urn:iweb:">Help</title>
+  <in-navbar xmlns="urn:iweb:">1DEB9233-0ECC-4BD4-808A-D820DD7E7C57</in-navbar>
+  <link rel="alternate" href="Help.html"/>
+  <updated>2016-03-11T20:56:50.005+11:00</updated>
+  <content>Help</content>
+ </entry>
+</feed>
